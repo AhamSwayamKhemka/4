@@ -1,0 +1,9 @@
+body{
+    background-image: linear-gradient(to right, blue, yellow, black, green, red);
+}
+.first{
+    color: bisque;
+}
+.MyCanvas{
+    background-color: white;
+}
